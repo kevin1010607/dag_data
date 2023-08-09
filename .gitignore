@@ -1,0 +1,17 @@
+# vscode
+.vscdoe/
+
+# service.json, dag.json
+*.json
+
+# dot file
+*.dot
+
+# image file
+*.png
+
+# python file
+__pycache__
+
+# service yaml file
+service/
